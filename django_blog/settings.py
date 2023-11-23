@@ -32,7 +32,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-liamedwards931-django-bl-fjt6g4n74l.us2.codeanyapp.com',
-    'djangoblog-2.herokuapp.com', 'localhost'
+    'djangoblog-2.herokuapp.com', 'eddy-931@hotmail.co.uk'
 ]
 
 
