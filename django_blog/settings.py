@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     'django_blog_app',
     'cloudinary_storage',
     'django_summernote',
+    'crispy_forms',
     'cloudinary'
 ]
 
